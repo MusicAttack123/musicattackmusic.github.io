@@ -1,0 +1,29 @@
+﻿body {
+    margin: 0;
+    font-family: system-ui;
+}
+
+.hero {
+    background-image: url(MUSICATTACKLOGO.png);
+} 
+
+.showcase {
+    background-color:lightseagreen;
+    color: azure;
+}
+
+.highline {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+}
+.text {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+
+<img src="MUSICATTACKLOGO.png" width="710" height="606" > </img >
